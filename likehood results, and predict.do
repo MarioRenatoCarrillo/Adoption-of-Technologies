@@ -1,6 +1,3 @@
-clear all
-
-cd "/Users/myMacBook/Desktop/Apec_Thesis_2017/Terry Hurley/Final results"
 
 estimates use Year1995ModelResults062617
 
@@ -45,9 +42,6 @@ lrtest  (cmp3) (cmp1 cmp2), stats
 
 ***  Factor Analysis for 1995 and 2005
 
-clear all
-
-cd "/Users/myMacBook/Desktop/Apec_Thesis_2017/Ultima_Correcion/CODE"
 
 estimates use Year1995ModelResults062617
 
@@ -147,11 +141,6 @@ loadingplot, xlab(0(.2)1) ylab(-.4(.2).6) aspect(1) yline(0) xline(0)
 
 
 *******2005
-
-
-clear all
-
-cd "/Users/myMacBook/Desktop/Apec_Thesis_2017/Ultima_Correcion/CODE"
 
 
 estimates use Year2005ModelResults062617
