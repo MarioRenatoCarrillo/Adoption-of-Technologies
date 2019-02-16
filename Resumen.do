@@ -1,7 +1,3 @@
-clear all
-
-cd "/Users/myMacBook/Desktop/DATA"
-
 use TechData042211.dta
 
 set more off
